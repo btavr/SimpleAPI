@@ -41,7 +41,7 @@ namespace SimpleAPI
                 app.UseHsts();
             }
 
-            
+            //trigger
             app.UseMvc();
         }
     }
